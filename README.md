@@ -5,8 +5,8 @@
 <p align="center"> A full-stack developer passionate about crafting elegant solutions. From frontend finesse with React.js to backend robustness with Node.js, I've got you covered. Let's build something amazing together!</p>
  
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> 
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" /> 
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
