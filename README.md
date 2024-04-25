@@ -34,8 +34,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+<br> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="linkedin.com/in/ajay-vishwakarma-3409a0225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
@@ -54,7 +53,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,npm,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,express" />
   </a>
 </p>
 
@@ -83,7 +82,7 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare" />
   </a>
 </p>
 
