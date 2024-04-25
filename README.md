@@ -36,7 +36,7 @@
 <a href="linkedin.com/in/ajay-vishwakarma-3409a0225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://twitter.com/AjayVish01/" target="blank">
  
- <img align="center" src="<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" />"  height="30" width="40" />
+ <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg"  height="30" width="40" />
 
  </a>
 </p>
