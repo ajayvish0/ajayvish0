@@ -1,7 +1,7 @@
  
 
 <h1 align="center">Hi 👋, I'm Ajay Vishwakarma</h1>
-<h3 align="center">A full-Stack Developer</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 <p align="center"> A full-stack developer passionate about crafting elegant solutions. From frontend finesse with React.js to backend robustness with Node.js, I've got you covered. Let's build something amazing together!</p>
  
 <div align="center">
